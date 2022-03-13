@@ -379,7 +379,23 @@
       ],
       "native": false,
       "denom": "coin"
-    }
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-HANSUM",
+      "chain_id": "juno-1",
+      "token_address": "juno1txtq2w57v5lg5usd8dgdufqznrlvwf2gyqethp9glhpynjsp9yxsr78vwu",
+      "swap_address": "juno13k5sfk6hs53sjltc5mu4evp2z7x4e8vcmxxzah525z0xukmk0hfqc6lu6d",
+      "symbol": "HANSUM",
+      "name": "HANSUM",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/hansum.png",
+      "tags": [
+        "cw20"
+      ],
+      "native":false,
+      "denom":"hansum"
+     }
   ],
   "version": {
     "major": 0,
