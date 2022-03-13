@@ -316,7 +316,7 @@
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
-        {
+    {
       "id": "",
       "pool_id": "JUNO-HOPE",
       "chain_id": "juno-1",
@@ -331,7 +331,7 @@
       ],
       "native": false,
       "denom": "hope"
-},
+    },
     {
       "id": "",
       "pool_id": "JUNO-RAC",
@@ -345,7 +345,7 @@
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "rac"
     },
     {
@@ -361,9 +361,9 @@
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "marble"
-    }, 
+    },
     {
       "id": "",
       "pool_id": "JUNO-COIN",
@@ -379,6 +379,22 @@
       ],
       "native": false,
       "denom": "coin"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-PRIMO",
+      "chain_id": "juno-1",
+      "token_address": "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z",
+      "swap_address": "juno1enl842z00cklnathpv8f3t3w2u70dkrq22crz3gxg38we7xjfq5s8lktmg",
+      "symbol": "PRIMO",
+      "name": "Cardinal Finance ",
+      "decimals": "6",
+      "logoURI": "https://www.cardinalfinance.io/images/Cardijnal-bird.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "primo"
     }
   ],
   "version": {
