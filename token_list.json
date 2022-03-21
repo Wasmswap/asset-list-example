@@ -316,7 +316,7 @@
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
-        {
+    {
       "id": "",
       "pool_id": "JUNO-HOPE",
       "chain_id": "juno-1",
@@ -331,7 +331,7 @@
       ],
       "native": false,
       "denom": "hope"
-},
+    },
     {
       "id": "",
       "pool_id": "JUNO-RAC",
@@ -345,7 +345,7 @@
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "rac"
     },
     {
@@ -361,9 +361,9 @@
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "marble"
-    }, 
+    },
     {
       "id": "",
       "pool_id": "JUNO-COIN",
@@ -427,6 +427,22 @@
       ],
       "native": false,
       "denom": "future"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-BFOT",
+      "chain_id": "juno-1",
+      "token_address": "juno1vaeuky9hqacenay9nmuualugvv54tdhyt2wsvhnjasx9s946hhmqaq3kh7",
+      "swap_address": "juno19859m5x8kgepwafc3h0n36kz545ngc2vlqnqxx7gx3t2kguv6fws93cu25",
+      "symbol": "BFOT",
+      "name": "Burned Fortis Oeconomia Token",
+      "decimals": "10",
+      "logoURI": "https://raw.githubusercontent.com/FortisOeconomia-dev/Fortis-Oeconomia/main/public/images/bFOT120.png?token=GHSAT0AAAAAABR75VDIGKOFXDRV5YBSXMTOYR4FKPQ",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "bfot"
     }
   ],
   "version": {
