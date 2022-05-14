@@ -87,3 +87,26 @@
     "patch": 0
   }
 }
+{
+      "id": "",
+      "pool_id": "JUNO-BLEP",
+      "chain_id": "juno-1",
+      "token_address": "juno1pjf4gs82nsfne8979pn63uwu7qaenhzy72mhdnpn0tr8jevtswqqahh68s",
+      "swap_address": "juno1rqlcesmxygfqgnn9zrdlgsxhn8zevkgdcnjselj8eptgkhk6tykqd8y236",
+      "symbol": "BLEP",
+      "name": "Blep",
+      "decimals": "6",
+      "logoURI": "https://i.imgur.com/QZT1oYj.png",
+      "tags": ["memecoin"],
+        "cw20"
+      ],
+      "native": false,
+      "denom": "blep"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
