@@ -162,7 +162,7 @@
                "denom":"ujuno"
             },
             {
-               "id":"usdc",
+               "id":"usd-coin",
                "chain_id":"juno-1",
                "token_address":"",
                "symbol":"USDC",
