@@ -1747,41 +1747,6 @@
         ]
       },
       {
-        "pool_id": "bJUNO(old)-JUNO",
-        "pool_assets": [
-          {
-            "id": "",
-            "chain_id": "juno-1",
-            "token_address": "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3",
-            "symbol": "bJUNO",
-            "name": "StakeEasy bJUNO",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/bjuno.png",
-            "tags": ["cw20"],
-            "native": false,
-            "denom": "bjuno"
-          },
-          {
-            "id":"juno-network",
-            "chain_id":"juno-1",
-            "token_address":"",
-            "symbol":"JUNO",
-            "name":"Juno",
-            "decimals":6,
-            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
-            "tags":[
-               "native"
-            ],
-            "native":true,
-            "denom":"ujuno"
-          }
-        ],
-        "swap_address": "juno1maj5xlggctfwm6ct6x2e3456zxm8chadq9prqxl9kjxzzs9edalsk5wzwh",
-        "staking_address": "",
-        "rewards_tokens": [
-        ]
-      },
-      {
         "pool_id": "bJUNO-JUNO",
         "pool_assets": [
           {
