@@ -1789,7 +1789,18 @@
             "native": false,
             "denom": "seasy",
             "decimals": 6
-          }
+          },
+          {
+            "rewards_address":"juno1784cvjtuzn8rgcaad9ca4qvj6d455c5rdccat9g2grnx66k32a3s2mz7cw",
+            "token_address":"",
+            "swap_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "native":true,
+            "denom":"ujuno",
+            "decimals":6
+         }
         ]
       },
       {
