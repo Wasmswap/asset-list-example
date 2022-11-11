@@ -2089,7 +2089,41 @@
         "swap_address": "juno1pxn38k3kz9k8cjlrghdwzmkxz67l343k5xuxn744wa56vfddrepsx72j5x",
         "staking_address": "",
         "rewards_tokens": []
-      }   
+      },
+      {
+        "pool_id": "JUNO-TORI",
+        "pool_assets": [
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          },
+          {
+            "id": "teritori",
+            "chain_id": "teritori-1",
+            "token_address": "",
+            "symbol": "TORI",
+            "name": "teritori",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/tori.png",
+            "tags": ["native"],
+            "native": true,
+            "denom": "ibc/436B576861090C1C921D56BA1FAE481A04D2E938EBDFF55C4712670F9754AC40"
+          }
+        ],
+        "swap_address": "juno1lgmtzhn840y9l74azn06w0wnsh4y98mjq5zs98yf96ggm7ejz05sgvpzqc",
+        "staking_address": "",
+        "rewards_tokens": []
+      }
    ],
    "version":{
       "major":0,
