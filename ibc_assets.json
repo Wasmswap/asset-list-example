@@ -227,7 +227,7 @@
       "name": "TORI",
       "symbol": "TORI",
       "chain_id": "teritori-1",
-      "rpc": "https://teritori-rpc.polkachu.com:443",
+      "rpc": "https://teritori-rpc.lavenderfive.com:443",
       "denom": "utori",
       "decimals": 6,
       "channel": "channel-11",
