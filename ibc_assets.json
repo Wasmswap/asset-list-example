@@ -221,7 +221,7 @@
       "juno_channel": "channel-83",
       "juno_denom": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
-    }
+    },
     {
       "id": "teritori",
       "name": "TORI",
