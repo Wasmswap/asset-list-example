@@ -2121,8 +2121,20 @@
           }
         ],
         "swap_address": "juno1lgmtzhn840y9l74azn06w0wnsh4y98mjq5zs98yf96ggm7ejz05sgvpzqc",
-        "staking_address": "",
-        "rewards_tokens": []
+        "staking_address": "juno1altrcm2qmne28dzqt8ncekus49wxfqzyka6nr678ucczmdf0urpqj3gx0p",
+        "rewards_tokens": [
+          {
+            "rewards_address":"juno1gqf7lsvgcmesgcttaj7l2d84n4gdprrftnnx6r6vvgmskr92t0zsnj64ua",
+            "token_address":"",
+            "swap_address":"juno1lgmtzhn840y9l74azn06w0wnsh4y98mjq5zs98yf96ggm7ejz05sgvpzqc",
+            "symbol":"TORI",
+            "name":"teritori",
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/tori.png",
+            "native":true,
+            "denom":"ibc/436B576861090C1C921D56BA1FAE481A04D2E938EBDFF55C4712670F9754AC40",
+            "decimals":6
+          }  
+        ]
       }
    ],
    "version":{
