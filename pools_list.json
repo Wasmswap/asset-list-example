@@ -2135,6 +2135,38 @@
             "decimals":6
           }  
         ]
+      },
+      {
+        "pool_id": "JUNO-ampJUNO",
+        "pool_assets": [
+          {
+            "id": "juno-network",
+            "chain_id": "juno-1",
+            "token_address": "",
+            "symbol": "JUNO",
+            "name": "Juno",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags": ["native"],
+            "native": true,
+            "denom": "ujuno"
+          },
+          {
+            "id": "",
+            "chain_id": "juno-1",
+            "token_address": "juno1a0khag6cfzu5lrwazmyndjgvlsuk7g4vn9jd8ceym8f4jf6v2l9q6d348a",
+            "symbol": "ampJUNO",
+            "name": "Amplified JUNO",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/ampjuno.png",
+            "tags": ["cw20"],
+            "native": false,
+            "denom": "ampJUNO"
+          }
+        ],
+        "swap_address": "juno10yvrummu6ma72z9ne82k888acn5que7s8ef3xtadd3fkhtq9xkuq80dhjs",
+        "staking_address": "",
+        "rewards_tokens": []
       }
    ],
    "version":{
