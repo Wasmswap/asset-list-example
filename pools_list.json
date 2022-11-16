@@ -2167,7 +2167,43 @@
         "swap_address": "juno10yvrummu6ma72z9ne82k888acn5que7s8ef3xtadd3fkhtq9xkuq80dhjs",
         "staking_address": "",
         "rewards_tokens": []
-      }
+      },
+	   {
+         "pool_id":"MUSE-USDC",
+         "pool_assets":[
+            {
+          "id": "",
+          "chain_id": "juno-1",
+          "token_address": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
+          "symbol": "MUSE",
+          "name": "MUSE",
+          "decimals": "6",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png",
+          "tags": [
+            "cw20"
+          ],
+          "native": false,
+          "denom": "muse"
+          },
+          {
+           "id":"usd-coin",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"USDC",
+            "name":"USDC",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png",
+             "tags":[
+               "native"
+               ],
+              "native":true,
+              "denom":"ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034"
+            }
+         ],
+         "swap_address":"juno1p8prj0dddf6d2wp599rtv9c5zp3v5gx0pjpk0hwl8fuhn7x8jslqxvjeqk",
+         "staking_address":"",
+         "rewards_tokens":[]
+	   }
    ],
    "version":{
       "major":0,
