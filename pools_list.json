@@ -2057,40 +2057,6 @@
         "rewards_tokens": []
       },
       {
-        "pool_id": "JUNO-STEAK",
-        "pool_assets": [
-          {
-            "id":"juno-network",
-            "chain_id":"juno-1",
-            "token_address":"",
-            "symbol":"JUNO",
-            "name":"Juno",
-            "decimals":6,
-            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
-            "tags":[
-               "native"
-            ],
-            "native":true,
-            "denom":"ujuno"
-          },
-          {
-            "id": "",
-            "chain_id": "juno-1",
-            "token_address": "juno173c59crjqeec28cpzs7n0y7hm4cd308zda8z6j4cnl6pct3stenseg2dxp",
-            "symbol": "STEAK",
-            "name": "Steak Token",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Steak.png",
-            "tags": ["cw20"],
-            "native": false,
-            "denom": "steak"
-          }
-        ],
-        "swap_address": "juno1pxn38k3kz9k8cjlrghdwzmkxz67l343k5xuxn744wa56vfddrepsx72j5x",
-        "staking_address": "",
-        "rewards_tokens": []
-      },
-      {
         "pool_id": "JUNO-TORI",
         "pool_assets": [
           {
